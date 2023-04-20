@@ -79,3 +79,6 @@ return Excellence
 <!-- &ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
 <!-- &ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a> -->
 </div>
+
+
+[![Gauri's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GauriTr&theme=react-dark)](https://github.com/GauriTr/github-readme-activity-graph)
