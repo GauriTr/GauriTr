@@ -1,5 +1,5 @@
 <h1 align= "center">
-   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Gauri!">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=f7ed7b&center=true&vCenter=true&width=550&height=100&lines=I'm+Gauri!">
 </h1>
 
 
@@ -32,6 +32,7 @@ return Excellence
 
 ## Languages and Tools:
 
+<div id="header" align="center">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask"></code>
@@ -45,6 +46,7 @@ return Excellence
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
+</div>
 
 
 <br>
