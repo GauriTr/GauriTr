@@ -20,7 +20,7 @@ return Excellence
 🎓 *I have skills like:* 
 **Machine Learning & Artificial Intelligence** 💻
 **Data Structures and Algorithms** 📅
-**Python, Java, C++, R** 
+**Python, Java, C++, R ** 
 **Blogs & Content Writing** 📝
 **DBMS, OS, Computer Networks**
 **SQL & MySQL** 📊
@@ -46,7 +46,7 @@ return Excellence
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-
+<code><img height="27" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="R"></code>
 
 <br>
 <br>
