@@ -82,4 +82,4 @@ return Excellence
 </div>
 
 
-[![Gauri's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GauriTr&theme=react-dark)](https://github.com/GauriTr/github-readme-activity-graph)
+
