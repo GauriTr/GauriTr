@@ -4,18 +4,6 @@
 
 
 
-``` Python
-while(Coffee){
-   Code;
-   if(!Coffee){
-      Coffee.refill();
-      continue;
-   }
-}
-return Excellence
-```
-
-
 
 🎓 *I have skills like:* 
 **Machine Learning & Artificial Intelligence** 💻
