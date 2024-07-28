@@ -8,7 +8,7 @@
 🎓 *I have skills like:* 
 **Machine Learning & Artificial Intelligence** 💻
 **Data Structures and Algorithms** 📅
-**Python, Java, C++, R ** 
+**Python, Java, C++, R** 
 **Blogs & Content Writing** 📝
 **DBMS, OS, Computer Networks**
 **SQL & MySQL** 📊
