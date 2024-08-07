@@ -48,7 +48,7 @@
 &ensp;
 &ensp;<a href="https://www.linkedin.com/in/gauri-tripathi-153078254/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;
-&ensp;<a href="https://www.linkedin.com/in/gauri-tripathi-153078254/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://medium.com/@gauritr01"><img src="https://worldvectorlogo.com/logo/wordmark-black-medium" title="Medium" alt="Medium account" width="30"/></a> 
 &ensp;
 </div>
 
